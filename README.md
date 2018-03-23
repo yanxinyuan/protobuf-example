@@ -4,9 +4,9 @@ and more reading in chinese please refer to [here](https://yxyyysdy.gitbooks.io/
 
 #### Compile
 
-mvn clean generate-sources   
+[xy-protobuf-principle]$mvn clean generate-sources   
 
-mvn install   
+[xy-protobuf-principle]$mvn install   
 
 #### Run
 ```
