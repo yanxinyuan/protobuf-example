@@ -3,11 +3,11 @@ This is an example showed the [coding principle](https://developers.google.com/p
 and more reading in chinese please refer to [here](https://yxyyysdy.gitbooks.io/protocol-buffers/).
 
 #### Compile
+```
+mvn clean generate-sources   
 
-[xy-protobuf-principle]$mvn clean generate-sources   
-
-[xy-protobuf-principle]$mvn install   
-
+mvn install   
+```
 #### Run
 ```
 java -jar target/protobuf-0.0.1-SNAPSHOT.jar 
