@@ -1,5 +1,6 @@
 # protobuf-example
-This is an example showed the [coding principle](https://yxyyysdy.gitbooks.io/protocol-buffers/) of protobuf
+This is an example showed the [coding principle](https://developers.google.com/protocol-buffers/docs/encoding) of protobuf,
+and more reading in chinese please refer to [here](https://yxyyysdy.gitbooks.io/protocol-buffers/).
 
 #### Compile
 
