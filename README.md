@@ -1,5 +1,5 @@
 # protobuf-example
-This is an example showed the coding principle of protobuf
+This is an example showed the [coding principle](https://yxyyysdy.gitbooks.io/protocol-buffers/) of protobuf
 
 #### Compile
 
