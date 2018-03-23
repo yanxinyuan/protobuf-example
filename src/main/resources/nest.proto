@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package com.xy.NestGen;
+
+option java_multiple_files = false;
+option java_package = "com.xy";
+option java_outer_classname = "NestGen";
+
+message Nest {
+	int32 i1 = 1;
+	SingleInt s1 = 2;
+}
+
+message SingleInt {
+	int32 i1 = 1;
+}

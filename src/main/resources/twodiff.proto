@@ -1,0 +1,11 @@
+syntax = "proto3";
+package com.xy.TwoDiffGen;
+
+option java_multiple_files = false;
+option java_package = "com.xy";
+option java_outer_classname = "TwoDiffGen";
+
+message TwoDiff {
+	int32 i1 = 1;
+	string s1 = 2;
+}

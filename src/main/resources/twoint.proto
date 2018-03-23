@@ -1,0 +1,10 @@
+syntax = "proto3";
+package com.xy.TwoIntGen;
+option java_multiple_files = false;
+option java_package = "com.xy";
+option java_outer_classname = "TwoIntGen";
+
+message TwoInt {
+	int32 i1 = 1;
+	int32 i2 = 2;
+}
