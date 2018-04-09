@@ -2,13 +2,13 @@
 This is an example showed the [coding principle](https://developers.google.com/protocol-buffers/docs/encoding) of protobuf,
 and more reading in chinese please refer to [here](https://yxyyysdy.gitbooks.io/protocol-buffers/).
 
-#### Compile
+#### compile
 ```
 mvn clean generate-sources   
 
 mvn install   
 ```
-#### Run
+#### try run
 ```
 java -jar target/protobuf-0.0.1-SNAPSHOT.jar 
 ---------------------------------------------------------------------------------------------
